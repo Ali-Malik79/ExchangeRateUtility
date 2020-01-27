@@ -3,7 +3,7 @@
 ##############################
 .mtj.tmp/
 *.class
-*.jar
+#*.jar
 *.war
 *.ear
 *.nar
@@ -67,7 +67,7 @@ local.properties
 nbproject/private/
 build/
 nbbuild/
-dist/
+#dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
